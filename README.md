@@ -10,3 +10,5 @@ Codes and results for NER part.
 
 ## Data folder
 Intermediate results for Shiny-app.
+
+App link - https://sreejakodati.shinyapps.io/GreenEatsApp/
