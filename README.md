@@ -2,13 +2,13 @@
 STAT628 Module3 group project-- Group 13
 Contributors：Kanishk Saxena, Shan Leng, Sreeja Kodati
 
-## Pre-cleaning
+## Data
 Data processing for the preliminary presentation.
 
-## NER folder
-Codes and results for NER part.
+## Codes
+Codes and results for analysis.
 
-## Data folder
-Intermediate results for Shiny-app.
+## Images
+Images generated during analysis.
 
 App link - https://sreejakodati.shinyapps.io/GreenEatsApp/
