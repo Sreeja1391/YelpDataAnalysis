@@ -5,10 +5,10 @@ Contributors：Kanishk Saxena, Shan Leng, Sreeja Kodati
 ## Data
 Data processing for the preliminary presentation.
 
-## Codes
+## Code
 Codes and results for analysis.
 
-## Images
+## Image
 Images generated during analysis.
 
 App link - https://sreejakodati.shinyapps.io/GreenEatsApp/
